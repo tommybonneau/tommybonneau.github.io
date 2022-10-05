@@ -16,7 +16,7 @@ h5 {
 }
 #intro {
     color:#e0d2b7;
-    background-image:url("BackgroundTB.png");
+    background-image:url("resources/BackgroundTB.png");
     background-size:contain;
     border-top: 8px;
     border-bottom: 3px;
