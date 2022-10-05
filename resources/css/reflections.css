@@ -19,8 +19,9 @@ h5 {
     background-image:url(/resources/photos/BackgroundTB.png);
     background-size:contain;
     border-top: 8px;
-    border-bottom: 3px;
+    border-bottom: 1px;
     background-color: #e0d2b7;
+
 }
 
 #content {
@@ -51,6 +52,8 @@ h2{
     background-color: #e0d2b7;
     border-radius: 8px;
     padding-inline: 15px;
+    border-left: 2px;
+    border-right: 2px;
     transition-duration: 2s
     cursor: pointer;
 }
