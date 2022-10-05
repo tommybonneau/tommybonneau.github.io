@@ -1,5 +1,6 @@
 .content {
     background-image:url('/resources/photos/desert.png');
+    background-size: contain;
     background-color:#efe6d5;
     padding-left: 10px;
     border-left:7px solid navy;
