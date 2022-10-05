@@ -1,4 +1,4 @@
-#content {
+.content {
     background-image:url('/resources/photos/desert.png');
     background-color:#efe6d5;
     padding-left: 10px;
@@ -8,12 +8,6 @@
     border-bottom: 7px solid navy;
     overflow: scroll;
 }
-
-
-
-
-
-
 
 /* ----------- iPhone 4 and 4S ----------- */
 
