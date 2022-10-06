@@ -10,6 +10,11 @@
     overflow: scroll;
 }
 
+p{
+  color: aliceblue;
+  padding-left: 15px;
+}
+
 /* ----------- iPhone 4 and 4S ----------- */
 
 /* Portrait and Landscape */
