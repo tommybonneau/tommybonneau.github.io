@@ -2,8 +2,9 @@
     font-family: 'Courier New', monospace;
     color: aliceblue;
     background-color:#000000;
-    font-weight: lighter
-
+    font-weight: lighter;
+    border-radius: 10px;
+    border-color: #000000;
   }
 
 
