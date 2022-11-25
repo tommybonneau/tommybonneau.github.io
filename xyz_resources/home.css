@@ -68,6 +68,9 @@ p{
 
 #menu ul{
     list-style: none;
+    color: aliceblue;
+    text-align: center;
+    text-justify: auto;
   }
   #menu li{
     display: inline;
