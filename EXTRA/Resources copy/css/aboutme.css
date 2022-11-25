@@ -1,0 +1,23 @@
+
+h1 {
+    color: rgb(198, 211, 223);
+}
+p{
+    color: aliceblue;
+    padding-left: 15px;
+}
+.videobackground{
+    position:absolute;
+    width: 100%;
+    height: max-content;
+    display: felx;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.content{
+    position: relative;
+    z-index: 1;
+    font-family:'Space Mono', monospace, 'Courier New', Courier, monospace;
+}
