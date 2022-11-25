@@ -1,6 +1,5 @@
 html{
     max-width: 600px;
-    text-align: center;
 }
 
 h1{
@@ -24,6 +23,7 @@ p{
     font-weight: lighter;
     color: aliceblue;
     font-size: smaller;
+    text-align: center;
 
 }
 
