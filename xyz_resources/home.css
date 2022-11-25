@@ -72,6 +72,8 @@ p{
   #menu li{
     display: inline;
     color: aliceblue;
+    text-align: center;
+    text-justify: auto;
 
   }
   
