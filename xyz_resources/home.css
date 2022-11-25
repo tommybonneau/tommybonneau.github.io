@@ -68,10 +68,11 @@ p{
 
 #menu p {
     text-align: center;
-    text-justify:inter-word;
     font-weight: lighter;
     color: aliceblue;
     justify-content: space-evenly;
+
+
 }
   
 
