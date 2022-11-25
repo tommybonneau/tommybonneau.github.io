@@ -71,6 +71,7 @@ p{
     text-justify:inter-word;
     font-weight: lighter;
     color: aliceblue;
+    justify-content: space-evenly;
 }
   
 
