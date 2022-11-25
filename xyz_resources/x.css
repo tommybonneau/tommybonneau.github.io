@@ -4,7 +4,7 @@ html{
 }
 
 h1{
-    color: brown;
+    color: aliceblue;
 }
 
 body{
@@ -22,5 +22,8 @@ body{
 
 p{
     font-weight: lighter;
+    color: aliceblue;
+    font-size: smaller;
+
 }
 
