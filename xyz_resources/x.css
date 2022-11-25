@@ -3,26 +3,46 @@ html{
 }
 
 h1{
+    font-weight: lighter;
     color: aliceblue;
+    font-size: smaller;
+    text-align: center;
+    text-justify: auto;
 }
 
 h2{
+    font-weight: lighter;
     color: aliceblue;
+    font-size: smaller;
+    text-align: center;
+    text-justify: auto;
 
 }
 
 h3{
+    font-weight: lighter;
     color: aliceblue;
+    font-size: smaller;
+    text-align: center;
+    text-justify: auto;
 
 }
 
 h4{
+    cfont-weight: lighter;
     color: aliceblue;
+    font-size: smaller;
+    text-align: center;
+    text-justify: auto;
 
 }
 
 strong{
+    font-weight: lighter;
     color: aliceblue;
+    font-size: smaller;
+    text-align: center;
+    text-justify: auto;
 }
 
 body{
