@@ -5,7 +5,7 @@ html{
 h1{
     font-weight: lighter;
     color: aliceblue;
-    font-size: smaller;
+    font-size:small;
     text-align: center;
     text-justify: auto;
 }
@@ -13,7 +13,7 @@ h1{
 h2{
     font-weight: lighter;
     color: aliceblue;
-    font-size: smaller;
+    font-size:small;
     text-align: center;
     text-justify: auto;
 
@@ -22,7 +22,7 @@ h2{
 h3{
     font-weight: lighter;
     color: aliceblue;
-    font-size: smaller;
+    font-size:small;
     text-align: center;
     text-justify: auto;
 
@@ -31,7 +31,7 @@ h3{
 h4{
     cfont-weight: lighter;
     color: aliceblue;
-    font-size: smaller;
+    font-size:small;
     text-align: center;
     text-justify: auto;
 
@@ -61,8 +61,7 @@ body{
 p{
     font-weight: lighter;
     color: aliceblue;
-    font-size: smaller;
+    font-size:smaller;
     text-align: center;
     text-justify: auto;
 }
-
